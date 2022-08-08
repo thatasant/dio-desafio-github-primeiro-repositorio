@@ -1,0 +1,23 @@
+O que é o Git?
+
+É um sistema de controle de versão moderno.
+Tendo uma arquitetura distribuída, o Git é um exemplo de DVCS (portanto, 
+Sistema de Controle de Versão Distribuído). Em vez de ter apenas um único local 
+para o histórico completo da versão do software, como é comum em sistemas de controle 
+de versão outrora populares como CVS ou Subversion (também conhecido como SVN), no Git, 
+a cópia de trabalho de todo desenvolvedor do código também é um repositório que pode 
+conter o histórico completo de todas as alterações.
+
+O que é controle de versão?
+
+O controle de versão, também conhecido como controle de fonte, é a prática de rastrear 
+e gerenciar as alterações em um código de software.
+
+
+Link para download do Git: https://git-scm.com/downloads
+
+
+Git Bash
+
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+
